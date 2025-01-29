@@ -2,7 +2,7 @@ include(FetchContent)
 
 FetchContent_Declare(
   ut
-  GIT_REPOSITORY https://github.com/openalgz/ut
+  GIT_REPOSITORY https://github.com/openalgz/ut.git
   GIT_TAG v0.0.4
   GIT_SHALLOW TRUE
 )
